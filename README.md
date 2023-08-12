@@ -3,7 +3,7 @@
 <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="50%" align="right" />
 <!-- <img align = “right” alt  = “Coding” width=“400” src=“https://tenor.com/en-GB/view/programmer-gif-19019116”> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smarshal21&label=Profile%20views&color=0e75b6&style=flat" alt="smarshal21" /> </p>
-
+ 
 
 - 🔭 I’m currently working on **Android OpenSource**
 
