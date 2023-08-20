@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **IOS and Backend**
 
-- 👯 I’m looking to collaborate on **Android,IOS**
+- 👯 I’m looking to collaborate on **Android,IOS Freelance Projects**
 
 - 🤝 I’m looking for help with **IOS**
 
