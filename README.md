@@ -7,11 +7,9 @@
 
 - 🔭 I’m currently working on **Android OpenSource**
 
-- 🌱 I’m currently learning **IOS and Backend**
+- 🌱 I’m currently learning **Backend**
 
-- 👯 I’m looking to collaborate on **Android,IOS Freelance Projects**
-
-- 🤝 I’m looking for help with **IOS**
+- 👯 I’m looking to collaborate on **Android Freelance Projects**
 
 - 💬 Ask me about **Android,Opensource,Java,Kotlin**
 
