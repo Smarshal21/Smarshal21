@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Android Freelance Projects**
 
-- 💬 Ask me about **Android,Opensource,Java,Kotlin**
+- 💬 Ask me about **Android, Opensource, Java, Kotlin**
 
 - 📫 How to reach me **samanwith21@gmail.com**
 
