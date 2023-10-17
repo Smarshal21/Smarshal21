@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋,  I'm Samanwith</h1>
+<h1 align="center">Hola 👋, I'm Samanwith</h1>
 <h3 align="center">A passionate Android developer and OpenSource Contributor</h3>
 <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="50%" align="right" />
 <!-- <img align = “right” alt  = “Coding” width=“400” src=“https://tenor.com/en-GB/view/programmer-gif-19019116”> -->
